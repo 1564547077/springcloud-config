@@ -1,2 +1,9 @@
 config:
-  version: V1
+  version: v1
+server:
+  port: 80
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://localhost:7001/eureka/,http://localhost:7002/eureka/
