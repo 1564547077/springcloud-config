@@ -1,7 +1,5 @@
 config:
   version: v1
-server:
-  port: 80
 eureka:
   client:
     register-with-eureka: false
