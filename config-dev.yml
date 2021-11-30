@@ -1,4 +1,5 @@
 config:
+  info: devConfig
   version: v3
 eureka:
   client:
