@@ -1,5 +1,5 @@
 config:
-  info: devConfig
+  info: devConfig2
   version: v4
 eureka:
   client:
